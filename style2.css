@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.detel{
+    text-align: center;
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.detel h1{
+    font-size:50px;
+    color: #212121;
+    margin-bottom: 30px;
+}
+.detel p{
+    font-size: 30px;
+}
+nav{
+    background-color: black;
+}
+/* display background color black on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+.imageAboutPage {
+    width: 100%;
+}
+/* social media icons styling */
+.social-icons {
+    font-size: 36px;
+    cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover{
+    color: #008000;
+}
+.fab {
+    color: #000000;
+}
+/* footer styling */
+#footer {
+    background-color: #808080;
+    text-align: center;
+}
